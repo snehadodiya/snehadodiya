@@ -13,13 +13,13 @@ import ResetPasswordPage from './pages/ResetPasswordPage/ResetPasswordPage.jsx';
 function App() {
   return (
     <>
-      {/* <JobPage></JobPage> */}
+      <JobPage></JobPage>
       {/* <EmployerPage></EmployerPage> */}
       {/* <SignupPage></SignupPage> */}
       {/* <LoginPage></LoginPage> */}
       {/* <BrowseCandidatePage></BrowseCandidatePage> */}
       {/* <ForgotPasswordPage></ForgotPasswordPage> */}
-      <ResetPasswordPage></ResetPasswordPage>
+      {/* <ResetPasswordPage></ResetPasswordPage> */}
     </>
   )
 }
