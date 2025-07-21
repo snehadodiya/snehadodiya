@@ -63,7 +63,6 @@
 
 - 💌 Email: [snehadodiya1609@gmail.com](mailto:snehadodiya1609@gmail.com)  
 - 🔗 LinkedIn: [Sneha Dodiya](https://linkedin.com/in/sneha-dodiya)  
-- 🧠 Portfolio: (Add link if you have one)
 
 ---
 
